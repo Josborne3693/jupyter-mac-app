@@ -24,6 +24,9 @@ If you have it installed elsewhere, recreate it with Automator using your instal
 
 Another consideration is that it doesn't open an actual Terminal. This means you can't `ctl+c` and correctly shut down the notebook server. To quit the app (and stop the server), you have to stop the app from the menu bar by clicking on the spinning gear and then on the 'x'. This is probably bad practice, so make sure you save your notebook before quitting the app.
 
+To change the icon, follow
+<a href="http://osxdaily.com/2013/06/04/change-icon-mac/">this</a> nice tutorial.
+
 
 ## Future Development
 I'm sure it'd be great to upload source code and have it build for your system or something, but this is just a simple thing, so I'll let it be.
